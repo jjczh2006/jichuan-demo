@@ -16,8 +16,8 @@ public class HerokuDemo1Application {
 	//add request handling 
 	@RequestMapping("/")
     String home() {
-		System.out.println("hello from jichuan 5.9 version 2");
-        return "Hello World from Jichuan 5.9 version 2!";        
+		System.out.println("hello from jichuan 5.9 version 3");
+        return "Hello World from Jichuan 5.9 version 3!";        
     }
 
 }
